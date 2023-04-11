@@ -13,12 +13,12 @@
 
 - 👨‍💻 All of my coding projects are available at [this website](https://jzzhang-portfolio.netlify.app/)
 
-- 👨‍💻 All of my art projects are available at [this website](https://jzhangziwen.myportfolio.com/)
+- 🎨 All of my art projects are available at [this website](https://jzhangziwen.myportfolio.com/)
 
 - 📫 How to reach me **jzzhang.dev@gmail.com**
 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1arCHlbzxaDSvhxT3jXOLjENXDH-JEBPdJWV50wY8yhs/edit?usp=sharing](https://docs.google.com/document/d/1arCHlbzxaDSvhxT3jXOLjENXDH-JEBPdJWV50wY8yhs/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1arCHlbzxaDSvhxT3jXOLjENXDH-JEBPdJWV50wY8yhs/edit?usp=sharing)
 
 - ⚡ Fun fact **Bubble tea is my kryptonite.**
 

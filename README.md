@@ -38,7 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juizii&" alt="juizii" /></p>
 
-<!--
-
 
 

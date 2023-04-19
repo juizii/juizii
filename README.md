@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Joyce Zhang 👋</h1>
+<h1 align="center">Hello, I'm Joyce Zhang/Juice👋</h1>
 <h3 align="center">I love creating art and code!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juizii&label=Profile%20views&color=0e75b6&style=flat" alt="juizii" /> </p>

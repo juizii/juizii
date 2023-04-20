@@ -18,7 +18,7 @@
 - 📫 How to reach me **jzzhang.dev@gmail.com**
 
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1arCHlbzxaDSvhxT3jXOLjENXDH-JEBPdJWV50wY8yhs/edit?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAFgaCP1tQE/OdYAresjdu2JIJcW9vsCqw/edit?utm_content=DAFgaCP1tQE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **Bubble tea is my kryptonite.**
 

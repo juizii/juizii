@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Joyce Zhang/Juice ✨ </h1>
-<h2 align="center">I love creating art and code! It's a pleasure to meet yall ~</h2>
+<h2 align="center">I love creating art and code! It's a pleasure to meet you ~</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juizii&label=Profile%20views&color=0e75b6&style=flat" alt="juizii" /> </p>
 

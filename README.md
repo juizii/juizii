@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juizii" alt="juizii" /></a> </p>
 
-- 😄 Pronouns: She/Her/Hers(/they/them 👍)
+- 😄 Pronouns: She/Her/Hers(they/them 👍)
 
 - 🔭 I’m currently working on **client's portfolio site.**
 

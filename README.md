@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my demo day project.**
 
-- 🌱 I’m currently learning **React and blender.**
+- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my coding projects are available at [this website](https://jzzhang-portfolio.netlify.app/)
 

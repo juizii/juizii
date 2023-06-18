@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: She/Her/Hers (they/them 👍)
 
-- 🔭 I’m currently working on **improving my demo day project.**
+- 🔭 I’m currently working on **refining my portfolio and improving my demo day project.**
 
 - 🌱 I’m currently learning **React.**
 

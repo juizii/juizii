@@ -7,9 +7,9 @@
 
 - 😄 Pronouns: She/Hers (they/them 👍)
 
-- 🔭 I’m currently working on **refining my portfolio and projects**
+- 🔭 I’m currently working on **projects using React and implementing AI**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my coding projects are available at [this website](https://jzzhang-portfolio.netlify.app/)
 

@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: She/Hers
 
-- 🔭 I’m currently working on **projects using React and implementing AI**
+- 🔭 I’m currently working on **projects using React and implementing AI in web applications**
 
 - 🌱 I’m currently learning **AI**
 
